@@ -1,0 +1,18 @@
+<div class="row">
+    <nav>
+    	<div id="toggle-menu">
+    	<button class="navbar-toggler hidden-sm-up collapsed" type="button" data-toggle="collapse" data-target="#navbar-header" aria-controls="navbar-header" aria-expanded="false">
+    	☰
+    	</button>
+
+    	</div>
+    	<ul class="top-menu">
+    		<li *ngFor="let item of topMenu">
+                <a href="{{item.url}}" i18n="Top menu item">{{item.label}}</a>      
+            </li>
+    	</ul>
+    </nav>
+    <div class="row">
+        <router-outlet></router-outlet>
+    </div>
+</div>
