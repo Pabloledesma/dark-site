@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="0666d6f8e71ca1740359c9432bc96ff731118d0c" datatype="html">
+        <source><x id="INTERPOLATION"/></source>
+        <target/>
+        <note priority="1" from="description">Top menu item</note>
+      </trans-unit>
+      <trans-unit id="2596c33f4905e12e464fac6be4d4276f1365f48b" datatype="html">
+        <source>***SIMULACRO***</source>
+        <target/>
+        <note priority="1" from="description">temporal title</note>
+      </trans-unit>
+      <trans-unit id="30f96fbf178b1bbe6e19761ca02e73b121c7bc40" datatype="html">
+        <source>Comunicados de Prensa</source>
+        <target/>
+        <note priority="1" from="description">press-releases sub-title</note>
+      </trans-unit>
+      <trans-unit id="8d936344afb489914e1ee441338caabdfc7393b7" datatype="html">
+        <source>PANAMÁ (8 de junio 2016) – Copa Airlines lamenta informar que el vuelo CM873, que salió de la Ciudad de Panamá con destino a Rio de Janeiro en Brasil el día 8 de junio del 2016,  sufrió una emergencia aproximándose al aeropuerto Internacional de Galeao en Brasil. Los equipos de rescate y salvamento de la ciudad tienen el control de la situación.  Reportes preliminares indican que hay sobrevivientes.</source>
+        <target/>
+        <note priority="1" from="description">press-releases paragraph 1</note>
+      </trans-unit>
+      <trans-unit id="5f152c55aefac3272155289218daf830f0f9875e" datatype="html">
+        <source>Copa Airlines tiene a disposición números de teléfono (gratuitos) para atender llamadas de familiares de pasajeros del vuelo CM873 que salió de la Ciudad de Panamá el 8 de junio con destino a Rio de Janeiro en Brasil.</source>
+        <target/>
+        <note priority="1" from="description">press-releases paragraph 2</note>
+      </trans-unit>
+      <trans-unit id="0538b296c21b7bee45b72573c7f341fc64bbf1fb" datatype="html">
+        <source>Desde PANAMÁ: 800 1971</source>
+        <target/>
+        <note priority="1" from="description">hub list item</note>
+      </trans-unit>
+      <trans-unit id="071e9ea34d4f2af201024de1b30935aea0160678" datatype="html">
+        <source>Desde COLOMBIA: 800 9981</source>
+        <target/>
+        <note priority="1" from="description">hub list item</note>
+      </trans-unit>
+      <trans-unit id="2bc7cb67b587a71694103184f827bc958442b782" datatype="html">
+        <source>Desde BRASIL: 800 2789</source>
+        <target/>
+        <note priority="1" from="description">hub list item</note>
+      </trans-unit>
+      <trans-unit id="35af0706c774dcd252d8c17206494ef4f8dbb44b" datatype="html">
+        <source>Desde ESTADOS UNIDOS: 800 2425</source>
+        <target/>
+        <note priority="1" from="description">hub list item</note>
+      </trans-unit>
+      <trans-unit id="cfba4aa81f620a2251ab172666d0da70aef4f447" datatype="html">
+        <source>Desde VENEZUELA: 800 3456</source>
+        <target/>
+        <note priority="1" from="description">hub list item</note>
+      </trans-unit>
+      <trans-unit id="6ed9bb8905d32779ed485b0a4ed0a7e76e7184cc" datatype="html">
+        <source>Desde REPÚBLICA DOMINICANA: 800 1256</source>
+        <target/>
+        <note priority="1" from="description">hub list item</note>
+      </trans-unit>
+      <trans-unit id="1da298c9f1585317c2ba71a1bf5e3cc60f933048" datatype="html">
+        <source>Los números de contacto están disponibles 24 horas al día.  Son de uso exclusivo de los familiares de personas que viajan en el vuelo CM873 que salió el 8 de junio de la Ciudad de Panamá con destino a Rio de Janeiro en Brasil. </source>
+        <target/>
+        <note priority="1" from="description">press-releases paragraph 3</note>
+      </trans-unit>
+      <trans-unit id="dfa7a9ef879fac253e29e60fc9c45144feefb417" datatype="html">
+        <source>Los Medios de Comunicación serán atendidos en el centro de llamadas +(507) 304-2077.</source>
+        <target/>
+        <note priority="1" from="description">press-releases paragraph 4</note>
+      </trans-unit>
+      <trans-unit id="56f1090e6cb787ab7b5b6cb5e4e2f4f57bb5d614" datatype="html">
+        <source>Asistencia a la familia</source>
+        <target/>
+        <note priority="1" from="description">assistance to family title</note>
+      </trans-unit>
+      <trans-unit id="f4186eb0c39203dbd59c975517514060695c764c" datatype="html">
+        <source>Copa Airlines ha realizado los siguientes números de teléfono gratuitos a disposición de los familiares de los pasajeros y la tripulación de vuelo CM9972:</source>
+        <target/>
+        <note priority="1" from="description">p1</note>
+      </trans-unit>
+      <trans-unit id="eef3f67d5556473eee1b66771504b95b6b56c734" datatype="html">
+        <source>Desde Panamá 8000197</source>
+        <target/>
+        <note priority="1" from="description">Contact phone</note>
+      </trans-unit>
+      <trans-unit id="f939c7cb63eff26401c4b70339156e2a03b5a5be" datatype="html">
+        <source>Desde Colombia 018007102179</source>
+        <target/>
+        <note priority="1" from="description">Contact phone</note>
+      </trans-unit>
+      <trans-unit id="4cc386ef99718a89702681e0e27e3655a8d992f9" datatype="html">
+        <source>Desde Estados Unidos 8887057560</source>
+        <target/>
+        <note priority="1" from="description">Contact phone</note>
+      </trans-unit>
+      <trans-unit id="5f763cbb54bef4eddeae41b2c589ee578cecac0d" datatype="html">
+        <source>Desde Venezuela 08001009107</source>
+        <target/>
+        <note priority="1" from="description">Contact phone</note>
+      </trans-unit>
+      <trans-unit id="e7d43e33db08377c5383c203282b4d232c80fa38" datatype="html">
+        <source>Desde Salvador 8006814</source>
+        <target/>
+        <note priority="1" from="description">Contact phone</note>
+      </trans-unit>
+      <trans-unit id="2fae0addb91624f781d12b33ca25b78daca2c9ed" datatype="html">
+        <source>Desde España 900808890</source>
+        <target/>
+        <note priority="1" from="description">Contact phone</note>
+      </trans-unit>
+      <trans-unit id="94e4ff292970958cc1a5f9567b0f2fee59d5443b" datatype="html">
+        <source>Desde Cuba 14073620632 (llamada por cobrar)</source>
+        <target/>
+        <note priority="1" from="description">Contact phone</note>
+      </trans-unit>
+      <trans-unit id="20c8e9ff141418d8661354ecb002c3df1a5173b7" datatype="html">
+        <source>Estos números estarán disponibles para uso exclusivo de los familiares de los pasajeros y la tripulación de 24 horas / día. No están destinados para el uso de los medios de comunicación.</source>
+        <target/>
+        <note priority="1" from="description">p2</note>
+      </trans-unit>
+      <trans-unit id="f453776929db1f1cfb1c569281011a82990d03be" datatype="html">
+        <source>Medios pueden llamar a la Copa Airlines Crisis Comunicaciones Call Center: (507) 304 a 2077. Copa Airlines a cabo una conferencia de prensa a las 4 pm, hora local Panamá en el Auditorio de su sede ubicada en la Urbanización Costa del Este, en Panamá.</source>
+        <target/>
+        <note priority="1" from="description">p3</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

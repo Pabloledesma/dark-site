@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
 
 @Component({
+	moduleId: module.id,
 	selector: 'assistance-to-family',
-	templateUrl: 'app/components/assistance-to-family/assistance-to-family.component.html'
+	templateUrl: 'assistance-to-family.component.html'
 })
 
 export class AssistanceToFamilyComponent {}

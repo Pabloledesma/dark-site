@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
 
 @Component({
+	moduleId: module.id,
 	selector: 'press-releases',
-	templateUrl: 'app/components/press-releases/press-releases.component.html'
+	templateUrl: 'press-releases.component.html'
 })
 
 export class PressReleasesComponent {}
