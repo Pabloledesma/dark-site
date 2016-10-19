@@ -1,0 +1,15 @@
+<div class="lang_selector">
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-addon"><i class="fa fa-globe fa-3"></i></div>
+        <select 
+        	class="form-control"
+        >
+        	<option 
+                *ngFor="let opt of languageList" label="{{opt.label}}" value="{{opt.value}}"
+            >{{opt.label}}</option>
+        </select>
+    </div>
+  </div>
+
+</div>

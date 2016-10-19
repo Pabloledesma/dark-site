@@ -1,7 +1,7 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit } 	from '@angular/core';
 
-import { MenuService } from '../../services/menu.service';
-import { MenuItem } from '../../models/menuItem';
+import { MenuService } 			from '../../services/menu.service';
+import { MenuItem } 			from '../../models/menuItem';
 
 @Component({
 	moduleId: module.id,

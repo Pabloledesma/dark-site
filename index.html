@@ -19,21 +19,21 @@
     <script src="systemjs.config.js"></script>
     <script>
       // Get the locale id somehow
-      var url = document.location.href.split('/');
+      // var url = document.location.href.split('/');
 
-      console.log(url[3]);
-      if( url[3] ){
-        document.locale = url[3];
-      } else {
-        document.locale = 'en';
-      }
+      // console.log(url[3]);
+      // if( url[3] ){
+      //   document.locale = url[3];
+      // } else {
+      //   document.locale = 'en';
+      // }
 
-      // Map to the text plugin
-      System.config({
-        map: {
-          text: 'systemjs-text-plugin.js'
-        }
-      });
+      // // Map to the text plugin
+      // System.config({
+      //   map: {
+      //     text: 'systemjs-text-plugin.js'
+      //   }
+      // });
       System.import('app').catch(function(err){ console.error(err); });
     </script>
   </head>

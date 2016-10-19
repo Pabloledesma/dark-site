@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
 	            <img src="../img/COPA_STAR_LOGO_BLACK.png">
 	          </a>  
 	        </div>
-	        <!-- <language-selector></language-selector> -->
+	        <language-selector></language-selector>
 	    </div>
 	  	<top-menu></top-menu>
     `
